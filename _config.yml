@@ -1,0 +1,24 @@
+
+gems:                [jekyll-paginate]
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               Indraneil Paul
+tagline:             'CS Grad | Foodie | Powerlifter'
+description:         '<img src="/Paul.gif" alt="Me"> An online home for all things Paul'
+url:                 https://github.com/ineil77
+baseurl:             ''
+paginate:            3
+
+# About/contact
+author:
+  name:              Indraneil Paul
+  url:               https://github.com/ineil77
+  email:             androneil54@gmail.com
+
+# Custom vars
+version:             1.0.0
